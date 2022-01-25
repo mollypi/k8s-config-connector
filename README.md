@@ -1,5 +1,7 @@
 # GCP Config Connector
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3fc34cb8-ca5e-4893-8fe8-48968309ffad.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/k8s-config-connector?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/343fc6db-6911-4e9c-8ddc-fd60b25147ed.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/k8s-config-connector?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/a0de1bac-2c33-40c0-aae3-018e61dc2f0a.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/k8s-config-connector?orgId=561911742905)  
+
 Config Connector is a Kubernetes add-on that allows customers to manage GCP
 resources, such as Cloud Spanner or Cloud Storage, through your cluster's API.
 
